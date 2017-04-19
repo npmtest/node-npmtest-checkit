@@ -1,1 +1,40 @@
-{     "devDependencies": {         "checkit": "*",         "electron-lite": "kaizhu256/node-electron-lite#alpha",         "utility2": "kaizhu256/node-utility2#alpha"     },     "name":"npmtest-checkit",     "homepage": "https://github.com/npmtest/node-npmtest-checkit",     "repository": {         "type": "git",         "url": "https://github.com/npmtest/node-npmtest-checkit.git"     },     "scripts": {         "build-ci": "utility2 shReadmeTest build_ci.sh"     },     "version": "0.0.1" }
+{
+    "author": "kai zhu <kaizhu256@gmail.com>",
+    "description": "#### basic test coverage for  [checkit (v0.7.0)](https://github.com/tgriesser/checkit#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-checkit.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-checkit) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-checkit.svg)](https://travis-ci.org/npmtest/node-npmtest-checkit)",
+    "devDependencies": {
+        "checkit": "*",
+        "electron-lite": "kaizhu256/node-electron-lite#alpha",
+        "utility2": "kaizhu256/node-utility2#alpha"
+    },
+    "engines": {
+        "node": ">=4.0"
+    },
+    "homepage": "https://github.com/npmtest/node-npmtest-checkit",
+    "keywords": [
+        "coverage",
+        "test",
+        "checkit"
+    ],
+    "license": "MIT",
+    "main": "lib.npmtest_checkit.js",
+    "name": "npmtest-checkit",
+    "nameAlias": "npmtest_checkit",
+    "nameOriginal": "npmtest-checkit",
+    "os": [
+        "darwin",
+        "linux"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/npmtest/node-npmtest-checkit.git"
+    },
+    "scripts": {
+        "build-ci": "utility2 shReadmeTest build_ci.sh",
+        "env": "env",
+        "heroku-postbuild": "npm install \"kaizhu256/node-utility2#alpha\" && utility2 shDeployHeroku",
+        "postinstall": "[ ! -f npm_scripts.sh ] || ./npm_scripts.sh postinstall",
+        "start": "PORT=${PORT:-8080} utility2 start test.js",
+        "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
+    },
+    "version": "0.0.1"
+}
