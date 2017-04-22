@@ -1,35 +1,35 @@
 <svg height="510" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="510" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-19 22:51:05 +0000   642909 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-19 22:51:05 +0000     1055 bytes  LICENSE</tspan>
-<tspan x="10" y="58">  2.  2017-04-19 22:51:05 +0000    16087 bytes  README.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-19 22:51:05 +0000    18683 bytes  core.js</tspan>
-<tspan x="10" y="90">  4.  2017-04-19 22:51:05 +0000    57252 bytes  docs/checkit.html</tspan>
-<tspan x="10" y="106">  5.  2017-04-19 22:51:05 +0000     9246 bytes  docs/docco.css</tspan>
-<tspan x="10" y="122">  6.  2017-04-19 22:51:05 +0000    29804 bytes  docs/public/fonts/aller-bold.eot</tspan>
-<tspan x="10" y="138">  7.  2017-04-19 22:51:05 +0000    66836 bytes  docs/public/fonts/aller-bold.ttf</tspan>
-<tspan x="10" y="154">  8.  2017-04-19 22:51:05 +0000    33244 bytes  docs/public/fonts/aller-bold.woff</tspan>
-<tspan x="10" y="170">  9.  2017-04-19 22:51:05 +0000    29509 bytes  docs/public/fonts/aller-light.eot</tspan>
-<tspan x="10" y="186"> 10.  2017-04-19 22:51:05 +0000    68620 bytes  docs/public/fonts/aller-light.ttf</tspan>
-<tspan x="10" y="202"> 11.  2017-04-19 22:51:05 +0000    33124 bytes  docs/public/fonts/aller-light.woff</tspan>
-<tspan x="10" y="218"> 12.  2017-04-19 22:51:05 +0000    18190 bytes  docs/public/fonts/novecento-bold.eot</tspan>
-<tspan x="10" y="234"> 13.  2017-04-19 22:51:05 +0000    48136 bytes  docs/public/fonts/novecento-bold.ttf</tspan>
-<tspan x="10" y="250"> 14.  2017-04-19 22:51:05 +0000    20576 bytes  docs/public/fonts/novecento-bold.woff</tspan>
-<tspan x="10" y="266"> 15.  2017-04-19 22:51:05 +0000     6874 bytes  docs/public/stylesheets/normalize.css</tspan>
-<tspan x="10" y="282"> 16.  2017-04-19 22:51:05 +0000       91 bytes  index.js</tspan>
-<tspan x="10" y="298"> 17.  2017-04-19 22:51:05 +0000     2996 bytes  lang/en.js</tspan>
-<tspan x="10" y="314"> 18.  2017-04-19 22:51:05 +0000     2371 bytes  lang/es.js</tspan>
-<tspan x="10" y="330"> 19.  2017-04-19 22:51:05 +0000     3518 bytes  lang/fr.js</tspan>
-<tspan x="10" y="346"> 20.  2017-04-19 22:51:05 +0000     3833 bytes  lang/ru.js</tspan>
-<tspan x="10" y="362"> 21.  2017-04-19 22:51:05 +0000     1622 bytes  lodash-requires.js</tspan>
-<tspan x="10" y="378"> 22.  2017-04-19 22:51:05 +0000     2756 bytes  package.json</tspan>
-<tspan x="10" y="394"> 23.  2017-04-19 22:51:05 +0000     4241 bytes  test/assets/mocha.css</tspan>
-<tspan x="10" y="410"> 24.  2017-04-19 22:51:05 +0000   137854 bytes  test/assets/mocha.js</tspan>
-<tspan x="10" y="426"> 25.  2017-04-19 22:51:05 +0000     1680 bytes  test/block.js</tspan>
-<tspan x="10" y="442"> 26.  2017-04-19 22:51:05 +0000     1035 bytes  test/index.html</tspan>
-<tspan x="10" y="458"> 27.  2017-04-19 22:51:05 +0000      267 bytes  test/index.js</tspan>
-<tspan x="10" y="474"> 28.  2017-04-19 22:51:05 +0000    12002 bytes  test/spec.js</tspan>
-<tspan x="10" y="490"> 29.  2017-04-19 22:51:05 +0000    11407 bytes  test/sync.js</tspan>
+<tspan x="10" y="26">  0.  2017-04-22 09:52:00 +0000   642909 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-22 09:52:00 +0000     1055 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-22 09:52:00 +0000    16087 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-22 09:52:00 +0000    18683 bytes  core.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-22 09:52:00 +0000    57252 bytes  docs/checkit.html</tspan>
+<tspan x="10" y="106">  5.  2017-04-22 09:52:00 +0000     9246 bytes  docs/docco.css</tspan>
+<tspan x="10" y="122">  6.  2017-04-22 09:52:00 +0000    29804 bytes  docs/public/fonts/aller-bold.eot</tspan>
+<tspan x="10" y="138">  7.  2017-04-22 09:52:00 +0000    66836 bytes  docs/public/fonts/aller-bold.ttf</tspan>
+<tspan x="10" y="154">  8.  2017-04-22 09:52:00 +0000    33244 bytes  docs/public/fonts/aller-bold.woff</tspan>
+<tspan x="10" y="170">  9.  2017-04-22 09:52:00 +0000    29509 bytes  docs/public/fonts/aller-light.eot</tspan>
+<tspan x="10" y="186"> 10.  2017-04-22 09:52:00 +0000    68620 bytes  docs/public/fonts/aller-light.ttf</tspan>
+<tspan x="10" y="202"> 11.  2017-04-22 09:52:00 +0000    33124 bytes  docs/public/fonts/aller-light.woff</tspan>
+<tspan x="10" y="218"> 12.  2017-04-22 09:52:00 +0000    18190 bytes  docs/public/fonts/novecento-bold.eot</tspan>
+<tspan x="10" y="234"> 13.  2017-04-22 09:52:00 +0000    48136 bytes  docs/public/fonts/novecento-bold.ttf</tspan>
+<tspan x="10" y="250"> 14.  2017-04-22 09:52:00 +0000    20576 bytes  docs/public/fonts/novecento-bold.woff</tspan>
+<tspan x="10" y="266"> 15.  2017-04-22 09:52:00 +0000     6874 bytes  docs/public/stylesheets/normalize.css</tspan>
+<tspan x="10" y="282"> 16.  2017-04-22 09:52:00 +0000       91 bytes  index.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-22 09:52:00 +0000     2996 bytes  lang/en.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-22 09:52:00 +0000     2371 bytes  lang/es.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-22 09:52:00 +0000     3518 bytes  lang/fr.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-22 09:52:00 +0000     3833 bytes  lang/ru.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-22 09:52:00 +0000     1622 bytes  lodash-requires.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-22 09:52:00 +0000     2756 bytes  package.json</tspan>
+<tspan x="10" y="394"> 23.  2017-04-22 09:52:00 +0000     4241 bytes  test/assets/mocha.css</tspan>
+<tspan x="10" y="410"> 24.  2017-04-22 09:52:00 +0000   137854 bytes  test/assets/mocha.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-22 09:52:00 +0000     1680 bytes  test/block.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-22 09:52:00 +0000     1035 bytes  test/index.html</tspan>
+<tspan x="10" y="458"> 27.  2017-04-22 09:52:00 +0000      267 bytes  test/index.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-22 09:52:00 +0000    12002 bytes  test/spec.js</tspan>
+<tspan x="10" y="490"> 29.  2017-04-22 09:52:00 +0000    11407 bytes  test/sync.js</tspan>
 </text>
 </svg>
