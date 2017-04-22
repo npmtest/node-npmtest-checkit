@@ -87,7 +87,8 @@
         "prepublish": "npm test && npm run build",
         "test": "mocha -R spec test/index.js"
     },
-    "version": "0.7.0"
+    "version": "0.7.0",
+    "bin": {}
 }
 ```
 
